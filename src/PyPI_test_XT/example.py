@@ -85,3 +85,6 @@ for i in range(10):
      print(y[i] * (theta @ X[i] + theta_0))
      if y[i] * (theta @ X[i] + theta_0) <= 0:
           print("False")
+
+def Hello_World():
+    print("Hello World")
