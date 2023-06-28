@@ -88,3 +88,6 @@ for i in range(10):
 
 def Hello_World():
     print("Hello World")
+
+def Happy_day():
+    print("Happy day")
